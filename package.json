@@ -1,0 +1,13 @@
+{
+  "name": "port-folio",
+  "version": "1.0.0",
+  "description": "my portfolio ",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "portfolio": "index.html"
+  },
+  "author": "Simi Omotayo",
+  "license": "ISC"
+}
